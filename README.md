@@ -1,4 +1,4 @@
-# UXURY TOOLS README
+# LUXURY TOOLS README
 
 ИНСТРУКЦИЯ ПО УСТАНОВКЕ ПЛАГИНОВ
 
